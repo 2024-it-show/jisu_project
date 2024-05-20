@@ -57,6 +57,7 @@ int main() {
     bool button2 = false;
     bool button3 = false;
     bool button4 = false;
+    bool button5 = false;
 
     // 스프라이트 위에 버튼 이미지 배치
     sprite6.setPosition(X_15UpSprite.getPosition()); sprite7.setPosition(X_15UpSprite.getPosition());
