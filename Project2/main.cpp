@@ -4,7 +4,7 @@ using namespace sf;
 
 int main() {
     // 창 생성
-    RenderWindow window(VideoMode(1280, 720), "SFML 이미지 띄우기");
+    RenderWindow window(VideoMode(1280, 720), "Game");
 
     // 이미지 로드 
     Texture X_15Up, X_10Up, Random_10Up, Random_10Down, All_15Up, Button6, ButtonHover7, Button8,
